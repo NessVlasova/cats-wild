@@ -1,0 +1,28 @@
+.img {
+    background-image: url(sandcat5.png);
+    width: 100%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.h1 {
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 90px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    white-space: nowrap;
+}
+
+
+.footer {
+    display: flex;
+    justify-items: baseline;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-top: 10%;
+    
+}
